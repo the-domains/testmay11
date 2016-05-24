@@ -1,0 +1,14 @@
+layout_spectrum: 0.6538830345962197
+typography_spectrum: 0.4988675327040255
+color:
+  brandStrength: 0.546192871639505
+  lightness: 0.9132780111394823
+  saturation: 0.39110190561041236
+  rhythmicContrast: 0.7486027157865465
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: TestMay11
